@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[LanguageContentKeys](
+	[LanguageContentKeyId] [int] IDENTITY(1,1) NOT NULL,
+	[KeyName] [varchar](50) NULL,
+ CONSTRAINT [PK_LanguageContentKeys] PRIMARY KEY CLUSTERED 
+(
+	[LanguageContentKeyId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]

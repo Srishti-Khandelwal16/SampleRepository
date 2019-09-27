@@ -1,0 +1,13 @@
+27-09-2019 10:27:32	This log contains information about the import operation of the script 'ArchitectureV3.sql' into project 'SampleDatabaseProject' on computer 'PC0030' by user'niravb.mistry.
+27-09-2019 10:27:32	Started importing file: C:\Users\niravb.mistry.RADIXLOCAL\Desktop\ArchitectureV3.sql 
+27-09-2019 10:27:32	File name C:\Users\niravb.mistry.RADIXLOCAL\Desktop\ArchitectureV3.sql (size: 41998)
+27-09-2019 10:27:32	Parsing import script
+27-09-2019 10:27:33	Total number of batches in script: 106
+27-09-2019 10:27:33	Total number of statements in script: 47
+27-09-2019 10:27:33	The script was successfully imported into the project.
+27-09-2019 10:27:33	Analyzing schema objects...
+27-09-2019 10:27:33	Scanning project for duplicate elements
+27-09-2019 10:27:33	Finished duplicate element processing
+27-09-2019 10:27:33	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+27-09-2019 10:27:34	A summary of the import was saved to the following location: D:\REPOSITORIES_AND_PROJECTS\SampleDatabaseProject\SampleDatabaseProject\Import Script Logs\ArchitectureV3_sql_20190927045732.log
+27-09-2019 10:27:34	Click Finish to continue...
